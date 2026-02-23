@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DOMINATION",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-23T10:55:45.192459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "World Domination",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/01_World_Domination_ASH.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Island Of Domination",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/02_Island_Of_Domination_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Domination",
+      "artist": "Bolt Thrower",
+      "has_synced": false,
+      "path": "select/03_Domination_Bolt_Thrower.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Global Domination",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/04_Global_Domination_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Descendants, Defiance, Domination",
+      "artist": "Ensiferum",
+      "has_synced": true,
+      "path": "select/05_Descendants,_Defiance,_Domination_Ensiferum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "World Domination",
+      "artist": "Clawfinger",
+      "has_synced": true,
+      "path": "select/06_World_Domination_Clawfinger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Domination",
+      "artist": "Symphony X",
+      "has_synced": true,
+      "path": "select/07_Domination_Symphony_X.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Domination",
+      "artist": "Pantera",
+      "has_synced": true,
+      "path": "select/08_Domination_Pantera.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Domination",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/09_Domination_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Domination (Pantera Cover)",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/10_Domination_(Pantera_Cover)_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Power and Domination",
+      "artist": "Exciter",
+      "has_synced": false,
+      "path": "select/11_Power_and_Domination_Exciter.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "World domination",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/12_World_domination_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "World domination",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/13_World_domination_和楽器バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOMINATION",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_DOMINATION_DUSTCELL.txt"
+    }
+  ]
+}
